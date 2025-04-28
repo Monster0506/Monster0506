@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Monster0506.
-- 👀 I’m interested in Machine Learning and Rust programming.
+- 🌐 You can view my website at [monster0506.dev](https://monster0506.dev/)
+- 👀 I’m into Machine Learning, Python, and building things from scratch.
 - 🌱 I’m currently learning the Rust programming language.
 - 📫 How to reach me: Github is best method of contacting me. You can do this through my [contact form](https://monster0506.dev/contact).
 
