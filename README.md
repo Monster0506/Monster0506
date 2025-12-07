@@ -5,3 +5,5 @@
 - 📫 How to reach me: My website is the best method of contacting me. You can do this through my [contact form](https://monster0506.dev/contact).
 
 ![](https://wakatime-stats-three.vercel.app/api/stats?username=monster0506)
+
+![](https://komarev.com/ghpvc/?username=monster0506&label=Profile%20views&color=0e75b6&style=flat)
